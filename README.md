@@ -1,4 +1,1 @@
-# HospitalEquipmentBackend
-# HospitalEquipmentBackend
-# HospitalProject
 # HospitalEquimentBackend
